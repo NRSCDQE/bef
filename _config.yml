@@ -11,7 +11,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
 banner-title:IRS Data Products Quality Assesment
-banner-desc: # add banner description
+banner-desc: D&PQED Reports of Indian Remote Sensing Satellites
 
 # Author settings
 author-pic: face.jpg # your photo
