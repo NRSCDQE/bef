@@ -4,7 +4,7 @@ published: true
 ---
 {% for cat in site.cats %}
 <div>
-  <h1 style="align:center;color:white">{{cat}}</h1>
+  <h1 style="align:center;color:white">{{cat}}</h1><hr/>
 {% for post in paginator.posts %}
 {% if post.tags contains cat  %}
   <div class="chapter">
