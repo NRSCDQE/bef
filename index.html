@@ -3,7 +3,6 @@ layout: main
 published: true
 ---
 {% for cat in site.cats %}
-{{ cat }}
 {% for post in paginator.posts %}
 {% if post.tags contains cat  %}
   <div class="chapter">
