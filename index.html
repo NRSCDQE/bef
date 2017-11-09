@@ -5,7 +5,6 @@ published: true
 {% for cat in site.cats %}
 {{ cat }}
 {% for post in paginator.posts %}
-{{ post }}
 {% if post.tags contains cat  %}
   <div class="chapter">
     <a href="{{post.url | prepend: site.baseurl}}">
