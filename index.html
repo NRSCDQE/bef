@@ -2,9 +2,9 @@
 layout: main
 published: true
 ---
-
+{% for cat in site.cats %}
 {% for post in paginator.posts %}
-{% for post.tag in post.tags %}
+
   <div class="chapter">
     <a href="{{post.url | prepend: site.baseurl}}">
       {% if post.img %}
@@ -16,5 +16,4 @@ published: true
       <h3 class="chapter_title">{{post.title}}</h3>
     </div>
   </div>
-{% for post.tag in post.tags %}
 {% endfor %}
