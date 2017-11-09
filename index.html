@@ -3,7 +3,8 @@ layout: main
 published: true
 ---
 {% for cat in site.cats %}
-<hr/><br/><div>
+<hr/><br/><section class="chapters cf">
+      <div class="wrapper"><div>
   <h1 style="align:center;color:white">{{cat}}</h1><hr/>
 {% for post in paginator.posts %}
 {% if post.tags contains cat  %}
@@ -21,6 +22,7 @@ published: true
 {% endif %}
 
 {% endfor %}
-</div><hr/><br/>
+</div></div>
+  </section><hr/><br/>
 {% endfor %}
 
