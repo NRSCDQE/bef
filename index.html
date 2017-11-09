@@ -4,7 +4,7 @@ published: true
 ---
 {% for cat in site.cats %}
 {% for post in paginator.posts %}
-{% if cat in post.tags %}
+{% if cat i post.tags %}
   <div class="chapter">
     <a href="{{post.url | prepend: site.baseurl}}">
       {% if post.img %}
