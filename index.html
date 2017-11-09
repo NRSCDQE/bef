@@ -3,7 +3,9 @@ layout: main
 published: true
 ---
 {% for cat in site.cats %}
+
 {% for post in paginator.posts %}
+
 {% if post.tags contains cat  %}
   <div class="chapter">
     <a href="{{post.url | prepend: site.baseurl}}">
@@ -17,5 +19,7 @@ published: true
     </div>
   </div>
 {% endif %}
+
 {% endfor %}
+
 {% endfor %}
