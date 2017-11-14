@@ -32,7 +32,6 @@ RESOURCESAT-2 carries two Solid State Recorders with a capacity of 200 Giga Byte
 - Distance betweenadjacent tracks :117.5 Km
 - Ground Trace Velocity: 6.65 Km/Sec
 - Equatorial Crossing Time(at descending node): 10:30 AM ± 10 min
-
 - Launch Mass: 1206 kg
 - Mission Life: 5 years
 - Power: 1250 W
