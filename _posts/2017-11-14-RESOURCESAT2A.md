@@ -20,6 +20,7 @@ RESOURCESAT-2A carries two Solid State Recorders with a capacity of 200 Giga Bit
 
 PSLV-C36 / RESOURCESAT-2A was successfully launched on December 07, 2016 at 10:25 hrs (IST) from SDSC SHAR, Sriharikota.
 
+<hr>
 <table><tbody><tr class="alt"><td>Mission</td>
 <td>Remote Sensing</td>
 </tr><tr><td>Orbit</td>
@@ -51,6 +52,7 @@ PSLV-C36 / RESOURCESAT-2A was successfully launched on December 07, 2016 at 10:2
 </tr><tr class="alt"><td>Mission life</td>
 <td>5 years</td>
 </tr></tbody></table>
+<hr>
 
 - Launch Mass: 1235 kg
 - Launch Vehicle: PSLV-C36 / RESOURCESAT-2A
