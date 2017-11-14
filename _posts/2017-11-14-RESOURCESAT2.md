@@ -20,6 +20,19 @@ RESOURCESAT-2 also carries an additional payload known as AIS (Automatic Identif
 
 RESOURCESAT-2 carries two Solid State Recorders with a capacity of 200 Giga Bytes each to store the images taken by its cameras which can be read out later to ground stations.
 
+- Semi-major axis: 7195.12 Km
+- Altitude: 817 Km
+- Inclination: 98.69 deg
+- No. of orbits per day: 14 5/24
+- Orbit period : 101.35 min
+- Eccentricity: 0.001
+- Repetivity (LISS-III): 24 days
+- Revist (LISS-IV): 5 days
+- Repetivity (AWiFS): 5 days
+- Distance betweenadjacent tracks :117.5 Km
+- Ground Trace Velocity: 6.65 Km/Sec
+- Equatorial Crossing Time(at descending node): 10:30 AM ± 10 min
+
 - Launch Mass: 1206 kg
 - Mission Life: 5 years
 - Power: 1250 W
