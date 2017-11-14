@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-img: irs-p6__1.jpg
+img: finalrs1.jpg
 date: '2017-11-14 10:04:00 +0530'
 description: >-
   You’ll find this post in your `_posts` directory. Go ahead and edit it and
