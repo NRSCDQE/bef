@@ -14,7 +14,7 @@ published: true
       <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
       {% endif %}
     </a>
-    <div class="chapter_inner" style="background-color:black;">
+    <div class="chapter_inner" style="background-color:black;border-radius:4px">
       <p class="chapter_number" >{{post.date | date: '%Y, %b %d'}}</p>
       <h3 class="chapter_title">{{post.title}}</h3>
     </div>
