@@ -8,7 +8,7 @@ description: >-
   re-build the site to see your changes.
 tag:
   - Resourcesat
-title: 'RESOURCESAT SERIES : RESOURCESAT-1'
+title: RESOURCESAT-1
 ---
 ## Resourcesat-1
 
